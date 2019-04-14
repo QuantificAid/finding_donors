@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* QuantificAid <37964284+datorus@users.noreply.github.com>
+* Caspar Heidbrink <caspar.heidbrink@web.de>
